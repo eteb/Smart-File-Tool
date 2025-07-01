@@ -51,11 +51,6 @@ Combine both:
 python smartfiletool.py --organize /path/to/folder --by type --dedupe /path/to/folder
 ```
 
-Or use the batch file on Windows:
-
-```bat
-run_smartfiletool.bat --organize "C:\path\to\folder" --by type
-```
 
 ## Options
 
